@@ -25,3 +25,8 @@ The pipeline includes:
 
 ## Author
 Jacek Ostrowski
+
+## View of the project
+<img width="1317" height="737" alt="image" src="https://github.com/user-attachments/assets/ee176e36-e11c-4206-9c2f-34197b69c870" />
+
+
